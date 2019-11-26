@@ -1,0 +1,32 @@
+.card{
+    border-radius: 10px;
+    /* background-color: lightgrey */
+}
+
+.saved-list{
+    border-radius: 15px;
+    /* background-color: lightyellow */
+}
+img{
+    border-radius: 10px;
+    border-style: outset;
+    width: 150px;
+    height: 200px;
+    
+}
+.deleteBook {
+    border-radius: 5px;
+    margin-left: 10px
+}
+
+.viewBook {
+    border-radius: 5px;
+    margin-left: 5px
+}
+
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
